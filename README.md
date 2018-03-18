@@ -14,15 +14,15 @@
 
 | Firm | Description | Website |
 | --- | --- | --- |
-| Udemy | Show file differences that haven't been staged | www.udemy.me |
-| Akakce | Show file differences that haven't been staged | www.c2.me |
+| Udemy | Show file differences that haven't been staged | www.udemy.com |
+| Akakce | Show file differences that haven't been staged | www.akakce.com |
 | Onedio | Show file differences that haven't been staged | www.onedio.com |
-| Innova | Show file differences that haven't been staged | www.c2.me |
-| ICterra | Show file differences that haven't been staged | www.c2.me |
-| Arvento | Show file differences that haven't been staged | www.c2.me |
+| Innova | Show file differences that haven't been staged | www.innova.com.tr |
+| ICterra | Show file differences that haven't been staged | www.icterra.com |
+| Arvento | Fleet telematics company | www.arvento.com |
 | Mobile Action | Show file differences that haven't been staged | www.c2.me |
 | Mobiversite | Show file differences that haven't been staged | www.c2.me |
-| JotForm | Show file differences that haven't been staged | www.jotform.com |
+| JotForm | Easy-to-use online form builder for every business | www.jotform.com |
 | Arçelik | Show file differences that haven't been staged | www.arcelik.com.tr |
 | Başarı | Show file differences that haven't been staged | www.c2.me |
 
