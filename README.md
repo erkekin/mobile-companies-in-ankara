@@ -1,4 +1,4 @@
-#Mobile app compaines in Ankara
+# Mobile app companies locating in Ankara
 
 ## Mobile first
 
@@ -14,17 +14,17 @@
 
 | Firm | Description | Website |
 | --- | --- | --- |
-| Udemy | Show file differences that haven't been staged | www.udemy.com |
-| Akakce | Show file differences that haven't been staged | www.akakce.com |
-| Onedio | Show file differences that haven't been staged | www.onedio.com |
+| Udemy | Your golden learning opportunity | www.udemy.com |
+| Akakce | E-commerce price comparison | www.akakce.com |
+| Onedio | Social content platform | www.onedio.com |
 | Innova | Show file differences that haven't been staged | www.innova.com.tr |
 | ICterra | Show file differences that haven't been staged | www.icterra.com |
 | Arvento | Fleet telematics company | www.arvento.com |
-| Mobile Action | Show file differences that haven't been staged | www.c2.me |
-| Mobiversite | Show file differences that haven't been staged | www.c2.me |
+| Mobile Action | Show file differences that haven't been staged | - |
+| Mobiversite | Apps for universities and educational institutions | www.mobiversite.com |
 | JotForm | Easy-to-use online form builder for every business | www.jotform.com |
 | Arçelik | Show file differences that haven't been staged | www.arcelik.com.tr |
-| Başarı | Show file differences that haven't been staged | www.c2.me |
+| Başarı | Show file differences that haven't been staged | - |
 
 Please contribute.
 Made with ❤️ in Ankara.
