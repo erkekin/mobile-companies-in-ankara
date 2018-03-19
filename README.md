@@ -1,8 +1,9 @@
 # Mobile app companies locating in Ankara
 
+I decided to make an inventory of mobile app companies in Ankara in order for developers to look around and see the possibilities around. In case of any lack of information dont hesitate to contribute.
+
 
 ## Mobile first
-
 
 | Firm | Description | Location | Website |
 | --- | --- | --- | --- |
@@ -13,7 +14,6 @@
 
 
 ## Create or monitor mobile apps
-
 
 | Firm | Description | Location | Website |
 | --- | --- | --- | --- |
