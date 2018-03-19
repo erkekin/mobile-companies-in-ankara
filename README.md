@@ -9,9 +9,9 @@ I decided to make an inventory of mobile app companies in Ankara in order for de
 | --- | --- | --- | --- |
 | Connected2.me | Chat anonymously and meet new people! | Bilkent Cyberpark | www.c2.me |
 | Funimate | Create surprisingly fun looping videos | METU Teknokent | www.funimate.com |
-| APPS | Makers of AWord game | METU Teknokent | www.apps.com.tr |
+| APPS | Makers of AWord game | Bilkent Cyberpark | www.apps.com.tr |
 | gamebra.in | Makers of hocus, rop and VOI | METU Teknokent | www.gamebra.in |
-
+| Mobiversite | Apps for universities and educational institutions | Bilkent Cyberpark | www.mobiversite.com |
 
 ## Create or monitor mobile apps
 
@@ -24,11 +24,10 @@ I decided to make an inventory of mobile app companies in Ankara in order for de
 | ICterra | Has web & mobile department, they have a Slack replacement app. | METU Teknokent | www.icterra.com |
 | Arvento | Fleet telematics company | Bilkent Cyberpark  | www.arvento.com | 
 | Mobile Action | Mobile Data Intelligence & Actionable Insights | METU Teknokent | www.mobileaction.co |
-| Mobiversite | Apps for universities and educational institutions | Bilkent Cyberpark | www.mobiversite.com |
+| App Samurai | Makes mobile advertising easy for high-growth companies | Bilkent Cyberpark | www.appsamurai.com |
 | JotForm | Easy-to-use online form builder for every business | Hacettepe Teknokent | www.jotform.com |
 | Arçelik ARGE | IoT app called HomeWhiz, enabling remote control for home appliances  | METU Teknokent | www.arcelik.com.tr |
 | Başarı | Mobile Environments and Information Technologies | Bilkent Cyberpark | www.basarimobile.com |
-
 
 
 Please contribute.
