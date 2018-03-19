@@ -26,7 +26,7 @@ I decided to make an inventory of mobile app companies in Ankara in order for de
 | Mobile Action | Mobile Data Intelligence & Actionable Insights | METU Teknokent | www.mobileaction.co |
 | Mobiversite | Apps for universities and educational institutions | Bilkent Cyberpark | www.mobiversite.com |
 | JotForm | Easy-to-use online form builder for every business | Hacettepe Teknokent | www.jotform.com |
-| Arçelik ARGE | Show file differences that haven't been staged | METU Teknokent | www.arcelik.com.tr |
+| Arçelik ARGE | IoT app called HomeWhiz, enabling remote control for home appliances  | METU Teknokent | www.arcelik.com.tr |
 | Başarı | Mobile Environments and Information Technologies | Bilkent Cyberpark | http://www.basarimobile.com |
 
 
