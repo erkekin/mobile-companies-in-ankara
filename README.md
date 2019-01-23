@@ -11,6 +11,7 @@ I decided to make an inventory of mobile app companies in Ankara in order for de
 | Funimate | Create surprisingly fun looping videos | METU Teknokent | www.funimate.com |
 | APPS | Makers of AWord game | Bilkent Cyberpark | www.apps.com.tr |
 | gamebra.in | Makers of hocus, rop and VOI | METU Teknokent | www.gamebra.in |
+| VLMedia | Makers of Waplog | METU Teknokent | https://vlmedia.com.tr |
 | Mobiversite | Apps for universities and educational institutions | Bilkent Cyberpark | www.mobiversite.com |
 
 ## Create or monitor mobile apps
@@ -28,6 +29,7 @@ I decided to make an inventory of mobile app companies in Ankara in order for de
 | JotForm | Easy-to-use online form builder for every business | Hacettepe Teknokent | www.jotform.com |
 | Arçelik ARGE | IoT app called HomeWhiz, enabling remote control for home appliances  | METU Teknokent | www.arcelik.com.tr |
 | Başarı | Mobile Environments and Information Technologies | Bilkent Cyberpark | www.basarimobile.com |
+| obss | I didn't understand what they're doing. | not clear | http://obss.com.tr |
 
 
 Please contribute.
